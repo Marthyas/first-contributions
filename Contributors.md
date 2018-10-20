@@ -241,6 +241,7 @@ Edison Shek
 - [Alan Chanthboune](https://github.com/AlanChanthaboune)
 - [Shana Maurino](https://github.com/shanamaurino)
 - [Ashu](https://github.com/ashu1999)
+- [Marthyas](https://github.com/Marthyas)
 - [Cecil John Tantay](https://github.com/cjbt)
 - [Filip Lupaescu](https://github.com/Familotel/)
 - [Taylor](https://github.com/ATaylor1181/)
